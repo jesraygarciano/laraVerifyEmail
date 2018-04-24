@@ -1,3 +1,3 @@
 Please verify your email
 
-<a href="{{ route('auth.verify', $token) }}">Verify your email</a>
+<a href="{{ route('auth.verify', $token) }}">Kindly check your email and verify</a>
